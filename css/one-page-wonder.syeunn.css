@@ -58,8 +58,8 @@ header.masthead {
   /*background-position: center center;*/
   /*background-attachment: scroll;*/
   /*background-size: cover;*/
-  background-image:url(https://namufile.alphawiki.org/32a0fcfe0fc36b5acd12c569fd2db113dfec5847.jpg);
-  background-size:cover;
+  background-image: url("/img/travel.jpg");
+  background-size: contain;
 }
 
 header.masthead .masthead-content {
@@ -128,8 +128,8 @@ header.masthead .bg-circle-4 {
 }
 
 .btn-primary {
-  background-color: #ee0979;
-  border-color: #ee0979;
+  background-color: black;
+  border-color: black;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
