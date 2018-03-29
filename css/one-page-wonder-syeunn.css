@@ -58,7 +58,7 @@ header.masthead {
   /*background-position: center center;*/
   /*background-attachment: scroll;*/
   /*background-size: cover;*/
-  background-image: url("/img/travel.jpg");
+  background-image: url(img/travel.jpg);
   background-size: contain;
 }
 
